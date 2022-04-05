@@ -1,0 +1,2 @@
+# collagefilosofia.github.io
+pagina
