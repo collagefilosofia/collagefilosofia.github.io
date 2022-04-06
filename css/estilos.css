@@ -19,9 +19,10 @@ span{
     justify-content: center;
     position: absolute;
     top: 5%;
-    left: 40%;
+    left: 33%;
     border-right: 2px solid;
     width: 10ch;  
+    color: rgb(255, 255, 255);
   
   animation: typing 2s steps(12),                                                               
   blink .5s infinite step-end alternate;
