@@ -11,6 +11,31 @@ body{
     background-color: #212025;
 }
 
+span{
+    font-size: 40px;
+    display: block;
+    font-family: monospace;
+    white-space: nowrap;
+    justify-content: center;
+    position: absolute;
+    top: 5%;
+    left: 40%;
+    border-right: 2px solid;
+    width: 10ch;  
+  
+  animation: typing 2s steps(12),                                                               
+  blink .5s infinite step-end alternate;
+  overflow: hidden;
+  }
+  
+  @keyframes typing {
+    from { width: 0}
+  }
+  
+  @keyframes blink {
+    50% { border-color: transparent }
+  }
+
 .container__background-triangle{
     max-width: 1200px;
     height: 600px;
