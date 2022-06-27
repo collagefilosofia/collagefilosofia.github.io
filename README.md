@@ -1,2 +1,1 @@
-# collagefilosofia.github.io
-pagina
+es pa una api .-.
